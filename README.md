@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <br>
 
-# Sorting Visualizer
+# Sorting Visualizer🚀
 A simple application made in Python-Tkinter , which visualizes some common sorting algorithms.
 
 ## Algorithms implemented:
